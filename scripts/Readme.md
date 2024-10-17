@@ -8,9 +8,9 @@
 
 ## 🎯 Projetos
 
--   [x] [Criando Estrutura de Pasta para Projetos DataScience](scripts/Create_Past_DataScience/)
--   [x] [QR Code](scripts/QR_Code/)
--   [ ] [Criando Estrutura de Pasta para Videos](scripts/Create_Past_DataScience/)
+-   [x] [Criando Estrutura de Pasta para Projetos DataScience](/Create_Past_DataScience/)
+-   [x] [QR Code](/QR_Code/)
+-   [ ] [Criando Estrutura de Pasta para Videos](/Create_Past_DataScience/)
 -   [ ] Loading
 
 > Notas: Certifique-se de executar os scripts como administrador para garantir que as mudanças no menu de contexto sejam aplicadas corretamente. Os scripts foram testados apenas no Windows, podem ser necessários ajustes para outros sistemas operacionais.

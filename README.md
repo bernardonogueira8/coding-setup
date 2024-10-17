@@ -5,7 +5,7 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 ## Conteúdo
 
 - [Atalhos do Jupyter Notebook](jupyter_shortcuts.md)
-- [Configurações do VSCode/Git](settings/vscode_settings.json)
+- [Configurações do VSCode/Git](settings/bash.bashrc.md)
 - [Scripts e Automação](scripts/)
 
 ## Como Contribuir

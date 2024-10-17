@@ -9,7 +9,7 @@
 ## 🎯 Projetos
 
 -   [x] [Criando Estrutura de Pasta para Projetos DataScience](./Create_Past_DataScience/)
--   [x] [QR Code](scripts/QR_Code/)
+-   [x] [QR Code](./QR_Code/)
 -   [ ] [Criando Estrutura de Pasta para Videos]()
 -   [ ] Loading
 

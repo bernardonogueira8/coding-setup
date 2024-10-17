@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\RunMyPythonScript]
+@="Criar Imagem QRCODE"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\RunMyPythonScript\command]
+@="\"C:\\Users\\bernardo.silva\\AppData\\Local\\Programs\\Python\\Python311\\python.exe\" \"C:\\CLI_Projects\\EstruturaDePastas_DS\\qrcode.py\" \"%V\""

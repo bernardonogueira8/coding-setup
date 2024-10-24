@@ -1,5 +1,8 @@
 ## Minhas Configurações
 
+Local do arquivo:
+`C:\Program Files\Git\etc\bash.bashrc`.
+
 Aqui estão alguns dos aliases que uso para agilizar meu fluxo de trabalho em projetos Laravel e Git:
 
 ```bash

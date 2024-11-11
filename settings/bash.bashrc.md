@@ -19,7 +19,8 @@ alias model='php artisan make:model'                     # Cria um novo modelo
 alias controller='php artisan make:controller'           # Cria um novo controlador
 
 # Git Aliases
-alias up='git add . && git commit -m "up"'               # Adiciona todas as alterações e faz um commit
+alias up='git add . && git commit -m "up"'                # Adiciona todas as alterações e faz um commit
+alias add='git add . && git commit -m '                   # Redução de add . e commit, commit -am buga muito 
 alias push='git push origin'                              # Faz push para o repositório remoto
 alias feature-s='git flow feature start'                  # Inicia uma nova feature no Git Flow
 alias feature-f='git flow feature finish'                 # Finaliza uma feature no Git Flow

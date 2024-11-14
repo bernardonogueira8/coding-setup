@@ -8,8 +8,8 @@ Aqui estão alguns dos aliases que uso para agilizar meu fluxo de trabalho em pr
 ```bash
 # Laravel Aliases
 alias pa='php artisan'                                   # Atalho para o comando Artisan
-alias serve='php artisan serve --host=localhost'              # Inicia o servidor na porta 8800
-alias pam='php artisan migrate'                           # Executa migrações
+alias serve='php artisan serve --host=localhost'         # Inicia o servidor na porta 8800
+alias pam='php artisan migrate'                          # Executa migrações
 alias pamf='php artisan migrate:fresh'                   # Executa migrações frescas
 alias model='php artisan make:model'                     # Cria um novo modelo
 alias controller='php artisan make:controller'           # Cria um novo controlador

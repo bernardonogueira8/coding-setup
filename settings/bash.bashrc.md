@@ -20,10 +20,9 @@ alias patm='php artisan tenants:migrate'                 # Executa migrações p
 alias patmf='php artisan tenants:migrate-fresh'          # Executa migrações frescas para inquilinos
 
 # Filament Aliases
-alias resource='php artisan make:filament-resource --generate'                              # Cria um novo recurso Filament com generate
-alias resource-s='php artisan make:filament-resource --generate --simple'                   # Cria um novo recurso Filament com generate
-alias resource-v='php artisan make:filament-resource --generate --view'                     # Cria um novo recurso Filament com view
-alias resource-s='php artisan make:filament-resource --generate --view --soft-deletes'      # Cria um novo recurso Filament com soft deletes
+alias resource='php artisan make:filament-resource --view'                                  # Cria um novo recurso Filament
+alias resource-g='php artisan make:filament-resourc --view --generate'                      # Cria um novo recurso Filament com generate
+alias resource-s='php artisan make:filament-resource --view --generate --soft-deletes'      # Cria um novo recurso Filament com soft deletes
 
 # Git Aliases
 alias up='git add . && git commit -m "up"'                # Adiciona todas as alterações e faz um commit
@@ -33,5 +32,6 @@ alias feature-s='git flow feature start'                  # Inicia uma nova feat
 alias feature-f='git flow feature finish'                 # Finaliza uma feature no Git Flow
 alias p-develop='git push origin develop'                 # Faz push para o branch develop
 alias user-f='php artisan make:filament-user'             # Criar usuario filament
+
 
 ```

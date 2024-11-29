@@ -23,6 +23,7 @@ alias patmf='php artisan tenants:migrate-fresh'          # Executa migrações f
 alias resource='php artisan make:filament-resource --view'                                  # Cria um novo recurso Filament
 alias resource-g='php artisan make:filament-resourc --view --generate'                      # Cria um novo recurso Filament com generate
 alias resource-s='php artisan make:filament-resource --view --generate --soft-deletes'      # Cria um novo recurso Filament com soft deletes
+alias shield-all='php artisan shield:generate --all'                                        # Gera todoas as politicas e validações
 
 # Git Aliases
 alias up='git add . && git commit -m "up"'                # Adiciona todas as alterações e faz um commit

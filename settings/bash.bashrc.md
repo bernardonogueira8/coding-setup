@@ -6,6 +6,9 @@ Local do arquivo:
 Aqui estão alguns dos aliases que uso para agilizar meu fluxo de trabalho em projetos Laravel e Git:
 
 ```bash
+# Outras Configurações Python
+alias run-s = 'streamlit run streamlit_app.py'           # Rodando codigo Streamlit
+
 # Laravel Aliases
 alias pa='php artisan'                                   # Atalho para o comando Artisan
 alias serve='php artisan serve --host=localhost'         # Inicia o servidor na porta 8800

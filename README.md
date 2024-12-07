@@ -8,6 +8,17 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 - [Configurações do VSCode/Git](settings/bash.bashrc.md)
 - [Scripts e Automação](scripts/)
 
+## Software Utilizados 
+
+- [DBeaver Community](https://dbeaver.io/)
+- [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=pt-br&gl=BR)
+- [XPipe](https://xpipe.io/)
+- [Google Drive](https://workspace.google.com/intl/pt-BR/products/drive/#download)
+- [Laragon - Download](https://laragon.org/download/)
+- [Microsoft PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/)
+- [Download Center - Synology Inc.](https://www.synology.com/en-br/support/download/DS223j?version=7.2#system)
+- [GIMP - GNU Image Manipulation Program](https://www.gimp.org/)
+
 ## Como Contribuir
 
 Contribuições são bem-vindas! Se você tem atalhos ou dicas que gostaria de compartilhar, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.

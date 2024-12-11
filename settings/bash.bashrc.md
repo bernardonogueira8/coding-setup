@@ -27,6 +27,7 @@ alias resource='php artisan make:filament-resource --view'                      
 alias resource-g='php artisan make:filament-resourc --view --generate'                      # Cria um novo recurso Filament com generate
 alias resource-s='php artisan make:filament-resource --view --generate --soft-deletes'      # Cria um novo recurso Filament com soft deletes
 alias shield-all='php artisan shield:generate --all'                                        # Gera todoas as politicas e validações
+alias user-f='php artisan make:filament-user'                                               # Criar usuario filament
 
 # Git Aliases
 alias up='git add . && git commit -m "up"'                # Adiciona todas as alterações e faz um commit
@@ -35,7 +36,4 @@ alias push='git push origin'                              # Faz push para o repo
 alias feature-s='git flow feature start'                  # Inicia uma nova feature no Git Flow
 alias feature-f='git flow feature finish'                 # Finaliza uma feature no Git Flow
 alias p-develop='git push origin develop'                 # Faz push para o branch develop
-alias user-f='php artisan make:filament-user'             # Criar usuario filament
-
-
 ```

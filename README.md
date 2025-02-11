@@ -6,6 +6,7 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 
 -   [Atalhos do Jupyter Notebook](jupyter_shortcuts.md)
 -   [Configurações do VSCode/Git](bash.bashrc.md)
+-   [Scripts de Automação](https://github.com/bernardonogueira8/Scripts-de-Menu-Contexto)
 
 ## Software Utilizados
 

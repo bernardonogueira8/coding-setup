@@ -33,4 +33,7 @@ alias push='git push origin'                              # Faz push para o repo
 alias feature-s='git flow feature start'                  # Inicia uma nova feature no Git Flow
 alias feature-f='git flow feature finish'                 # Finaliza uma feature no Git Flow
 alias p-develop='git push origin develop'                 # Faz push para o branch develop
+
+# Python
+alias environment='conda env create -f environment.yml'   # Criar ambiente conda
 ```

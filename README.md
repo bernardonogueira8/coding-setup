@@ -10,6 +10,7 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 
 ## Software Utilizados
 
+-   [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows)
 -   [DBeaver Community](https://dbeaver.io/)
 -   [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=pt-br&gl=BR)
 -   [Google Drive](https://workspace.google.com/intl/pt-BR/products/drive/#download)

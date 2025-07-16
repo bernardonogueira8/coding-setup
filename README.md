@@ -25,6 +25,8 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 -   [Upscayl](https://upscayl.org/download)
 -   [Miktex](http://miktex.org/download)
 -   [TeXstudio](http://www.texstudio.org/)
+-   [Zotero](https://www.zotero.org/)
+-   [JabRef](http://www.fosshub.com/JabRef.html)
 
 ## Como Contribuir
 

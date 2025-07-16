@@ -17,6 +17,13 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 -   [Laragon - Download](https://laragon.org/download/)
 -   [Microsoft PowerToys](https://learn.microsoft.com/pt-br/windows/powertoys/)
 -   [Download Center - Synology Inc.](https://www.synology.com/en-br/support/download/DS223j?version=7.2#system)
+-   [Power BI](https://www.microsoft.com/pt-br/download/details.aspx?id=58494)
+-   [Anaconda](https://www.anaconda.com/download)
+-   [Git](https://git-scm.com/downloads)
+-   [Obsidian](https://obsidian.md/download)
+-   [Winrar](https://www.win-rar.com/download.html?&L=9)
+-   [VS Code](https://code.visualstudio.com/download)
+-   [Upscayl](https://upscayl.org/download)
 
 ## Como Contribuir
 

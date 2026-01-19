@@ -32,7 +32,10 @@ alias add='git add . && git commit -m '                   # Redução de add . e
 alias push='git push origin'                              # Faz push para o repositório remoto
 alias feature-s='git flow feature start'                  # Inicia uma nova feature no Git Flow
 alias feature-f='git flow feature finish'                 # Finaliza uma feature no Git Flow
-alias p-develop='git push origin develop'                 # Faz push para o branch develop
+alias release-s='git flow release start'                  # Inicia uma nova release no Git Flow
+alias release-f='git flow release finish'                 # Finaliza uma release no Git Flow
+alias list-features='git flow feature list'               # Lista todas as features no Git Flow
+alias delete-feature='git flow feature delete'            # Deleta uma feature no Git Flow
 
 # Python
 alias environment='conda env create -f environment.yml'   # Criar ambiente conda

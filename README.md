@@ -10,7 +10,7 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 
 ## Software Utilizados
 
--   [PyCharm](https://www.jetbrains.com/pycharm/download/?section=windows)
+-   [VS Code](https://code.visualstudio.com/download)
 -   [DBeaver Community](https://dbeaver.io/)
 -   [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=pt-br&gl=BR)
 -   [Google Drive](https://workspace.google.com/intl/pt-BR/products/drive/#download)
@@ -19,9 +19,9 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 -   [Power BI](https://www.microsoft.com/pt-br/download/details.aspx?id=58494)
 -   [Anaconda](https://www.anaconda.com/download)
 -   [Git](https://git-scm.com/downloads)
+-   [Git Flow Next](https://git-flow.sh/)
 -   [Obsidian](https://obsidian.md/download)
 -   [Winrar](https://www.win-rar.com/download.html?&L=9)
--   [VS Code](https://code.visualstudio.com/download)
 -   [Upscayl](https://upscayl.org/download)
 -   [Miktex](http://miktex.org/download)
 -   [TeXstudio](http://www.texstudio.org/)

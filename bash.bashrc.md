@@ -39,4 +39,6 @@ alias delete-feature='git flow feature delete'            # Deleta uma feature n
 
 # Python
 alias environment='conda env create -f environment.yml'   # Criar ambiente conda
+alias requirements='pip install -r requirements.txt'      # Instala os requirements
+
 ```

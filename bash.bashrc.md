@@ -38,7 +38,7 @@ alias list-features='git flow feature list'               # Lista todas as featu
 alias feature-d='git flow feature delete'                 # Deleta uma feature no Git Flow
 
 # Python and UV
-alias  uvr = 'uv run'                                       # Executa o comando uv run
-alias  build-w = 'uv run flet build windows'                  # Executa o comando uv run flet build windows
+alias uvr='uv run'                                       # Executa o comando uv run
+alias build-w='uv run flet build windows'                # Executa o comando uv run flet build windows
 
 ```

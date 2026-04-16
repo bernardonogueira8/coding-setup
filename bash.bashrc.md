@@ -35,10 +35,10 @@ alias feature-f='git flow feature finish'                 # Finaliza uma feature
 alias release-s='git flow release start'                  # Inicia uma nova release no Git Flow
 alias release-f='git flow release finish'                 # Finaliza uma release no Git Flow
 alias list-features='git flow feature list'               # Lista todas as features no Git Flow
-alias delete-feature='git flow feature delete'            # Deleta uma feature no Git Flow
+alias feature-d='git flow feature delete'                 # Deleta uma feature no Git Flow
 
-# Python
-alias environment='conda env create -f environment.yml'   # Criar ambiente conda
-alias requirements='pip install -r requirements.txt'      # Instala os requirements
+# Python and UV
+alias  uvr = 'uv run'                                       # Executa o comando uv run
+alias  build-w = 'uv run flet build windows'                  # Executa o comando uv run flet build windows
 
 ```

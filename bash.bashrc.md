@@ -40,8 +40,6 @@ alias feature-d='git flow feature delete'                 # Deleta uma feature n
 # Python and UV
 alias uvr='uv run'                                        # Executa o comando uv run
 alias build-w='uv run flet build windows'                 # Executa o comando uv run flet build windows
-alias uvr='uv run'                                        # Executa o comando uv run
-alias build-w='uv run flet build windows'                 # Executa o comando uv run flet build windows
 alias codegen='uv run playwright codegen'                 # Executa o comando uv run playwright codegen
 alias flet-r='uv run fleting run'                         # Executa o comando uv run fleting run
 ```

@@ -26,6 +26,7 @@ Bem-vindo ao repositório **Coding Setup**! Este projeto é uma coleção de ata
 -   [Node.js](https://nodejs.org/en/download)
 -   [VcRedist](https://github.com/abbodi1406/vcredist)
 -   [Visual Studio - Desktop development with C++](https://visualstudio.microsoft.com/pt-br/downloads/)
+-   [Text Blaze](https://blaze.today/windows/)
 
 ## Conteúdo
 -   [Atalhos do Jupyter Notebook](jupyter_shortcuts.md)
